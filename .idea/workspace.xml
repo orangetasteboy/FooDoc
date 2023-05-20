@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d11aeb92-1778-45f2-b86a-ef436347cbc7" name="Changes" comment="complete" />
+    <list default="true" id="d11aeb92-1778-45f2-b86a-ef436347cbc7" name="Changes" comment="complete">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +27,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/FooDoc-main",
-    "settings.editor.selected.configurable": "vcs.Git",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660108476148</updated>
       <workItem from="1660108477481" duration="21000" />
-      <workItem from="1684597503045" duration="1749000" />
+      <workItem from="1684597503045" duration="1990000" />
     </task>
     <task id="LOCAL-00001" summary="complete">
       <created>1684599248594</created>
@@ -70,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684599248594</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="complete">
+      <created>1684599283086</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684599283086</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
