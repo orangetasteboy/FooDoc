@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d11aeb92-1778-45f2-b86a-ef436347cbc7" name="Changes" comment="complete">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="d11aeb92-1778-45f2-b86a-ef436347cbc7" name="Changes" comment="complete_2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/analyze.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/analyze.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/join1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/join1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/join2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/join2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pic_upload.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pic_upload.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/FooDoc-main",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/FooDoc-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="front2" />
@@ -64,7 +77,9 @@
       <option name="presentableId" value="Default" />
       <updated>1660108476148</updated>
       <workItem from="1660108477481" duration="21000" />
-      <workItem from="1684597503045" duration="1990000" />
+      <workItem from="1684597503045" duration="2220000" />
+      <workItem from="1684662999525" duration="621000" />
+      <workItem from="1685359451129" duration="4954000" />
     </task>
     <task id="LOCAL-00001" summary="complete">
       <created>1684599248594</created>
@@ -80,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684599283086</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="complete_2">
+      <created>1684599522771</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684599522771</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete" />
+    <MESSAGE value="complete_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete_2" />
   </component>
 </project>
